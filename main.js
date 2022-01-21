@@ -1,10 +1,8 @@
-// Creating Objects for random messages 
+// Creating Objects for random messages
+// Can be filled with addMessage functions, see file. 
 
-const randomMessages1 = {};
+const randomMessages1 = [];
 
-const randomMessages2 = {};
+const randomMessages2 = [];
 
-const randomMessages3 = {};
-
-// Setting up factory function to fill in further messages to above objects
-
+const randomMessages3 = [];
